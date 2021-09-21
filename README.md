@@ -14,6 +14,9 @@ I want to find out if there is an optimal day of the month to buy stock every mo
 - This does not include any serious recessions like "dot com" or "housing crisis" save for COVID in Mar 2020.
 - We are not accounting for dividends, this is price action only.
 - AMC only has 7 years of data.
+- We are only testing a subset of popular tickers found in SPY (except AMC and X as outliers).
+- We are not trying to time the market we are trying to optimize the day that we buy in every month for 10 years based on current market conditions.
+- The priced used is the closing price of 9/20 to sell off shares.
 
 ## Hypothesis
 
@@ -34,5 +37,11 @@ I think if I only purchased on a day that avoided known events that cause high v
 1. You're pretty much always profitable if your profits come from the price on growth stocks and not dividends.
 1. The middle of the month clearly has drops in it.
 1. Dividend focused tickers have pretty either barely positive or negative outcomes.
+1. Even leveraged tickers like TQQQ show similar behavior to growth tickers.
 
 ## Conclusions
+
+1. The 13th almost always comes out as the most profitable day to buy stock from our sample.
+1. You should check the ticker your buying for a historical growth trend. 
+11. WFC, T, and X did not fare well in this experiment.
+11. X isn't even a dividend ticker it just didn't move much over 10 years.
