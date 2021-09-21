@@ -26,4 +26,7 @@ I think if I only purchased on a day that avoided known events that cause high v
 
 You can find the script used to process the data in `src/spy.py`.
 
-I'd then run the command `python spy.py`.
+I'd then run the command `python src/spy.py`.
+
+Then I copy the data from `src/output.csv` into a Google spreadsheet that graphed the data from the 1st of the month all the way to the 31st.
+https://docs.google.com/spreadsheets/d/1OVpWaR37AJl7D57HaHu2ch_XD7TmeASPwoA-h5nvnKc/edit?usp=sharing
