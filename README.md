@@ -42,5 +42,4 @@ I think if I only purchased on a day that avoided known events that cause high v
 ## Conclusions
 
 1. The 13th almost always comes out as the most profitable day to buy stock from our sample.
-1. You should check the ticker your buying for a historical growth trend. 
-1. WFC, T, and X did not fare well in this experiment.
+1. You should check the ticker your buying for a historical growth trend.  WFC, T, and X did not fare well in this experiment.
