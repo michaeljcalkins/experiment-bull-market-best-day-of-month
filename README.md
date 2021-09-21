@@ -24,11 +24,11 @@ I think if I only purchased on a day that avoided known events that cause high v
 
 ## Materials/Procedures 
 
-- 10 year data provided by NASDAQ: https://www.nasdaq.com/market-activity/stocks/mnst/historical 
-- You can find the script used to process the data in `src/spy.py`.
-- I'd then run the command `python src/spy.py`, basically it buys one share, once per month, for 10 years.
-- Then I copy the data from `src/output.csv` into a Google spreadsheet that graphed the data from the 1st of the month all the way to the 31st.
--- https://docs.google.com/spreadsheets/d/1OVpWaR37AJl7D57HaHu2ch_XD7TmeASPwoA-h5nvnKc/edit?usp=sharing
+1. 10 year data provided by NASDAQ: https://www.nasdaq.com/market-activity/stocks/mnst/historical 
+1. You can find the script used to process the data in `src/spy.py`.
+1. I'd then run the command `python src/spy.py`, basically it buys one share, once per month, for 10 years.
+1. Then I copy the data from `src/output.csv` into a Google spreadsheet that graphed the data from the 1st of the month all the way to the 31st.
+1. https://docs.google.com/spreadsheets/d/1OVpWaR37AJl7D57HaHu2ch_XD7TmeASPwoA-h5nvnKc/edit?usp=sharing
 
 ## Observances
 
@@ -43,5 +43,4 @@ I think if I only purchased on a day that avoided known events that cause high v
 
 1. The 13th almost always comes out as the most profitable day to buy stock from our sample.
 1. You should check the ticker your buying for a historical growth trend. 
-11. WFC, T, and X did not fare well in this experiment.
-11. X isn't even a dividend ticker it just didn't move much over 10 years.
+1. WFC, T, and X did not fare well in this experiment.
