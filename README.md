@@ -8,15 +8,15 @@ I want to find out if there is an optimal day of the month to buy stock every mo
 
 ## Background Information
 
-- As it stands there is a cyclical nature in SPY due to the OPEX events every month between 15th and 20th, quad witching, and Federal Reserve meetings announcing interest rates.
-- For the last 10 years the US has been in a bull market, but I chose that time frame because it's the extent of my professional working experience.
-- There are numerous studies and anecdotes that confirm buying and holding long term makes you profitable even if you do it poorly.
-- This does not include any serious recessions like "dot com" or "housing crisis" save for COVID in Mar 2020.
-- We are not accounting for dividends, this is price action only.
-- AMC only has 7 years of data.
-- We are only testing a subset of popular tickers found in SPY (except AMC and X as outliers).
-- We are not trying to time the market we are trying to optimize the day that we buy in every month for 10 years based on current market conditions.
-- The priced used is the closing price of 9/20 to sell off shares.
+1. As it stands there is a cyclical nature in SPY due to the OPEX events every month between 15th and 20th, quad witching, and Federal Reserve meetings announcing interest rates.
+1. For the last 10 years the US has been in a bull market, but I chose that time frame because it's the extent of my professional working experience.
+1. There are numerous studies and anecdotes that confirm buying and holding long term makes you profitable even if you do it poorly.
+1. This does not include any serious recessions like "dot com" or "housing crisis" save for COVID in Mar 2020.
+1. We are not accounting for dividends, this is price action only.
+1. AMC only has 7 years of data.
+1. We are only testing a subset of popular tickers found in SPY (except AMC and X as outliers).
+1. We are not trying to time the market we are trying to optimize the day that we buy in every month for 10 years based on current market conditions.
+1. The priced used is the closing price of 9/20 to sell off shares.
 
 ## Hypothesis
 
